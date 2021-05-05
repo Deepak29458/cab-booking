@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.javiersantos:AppUpdater:2.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e493cef147bc19cd35dda75f5c948e8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e493cef147bc19cd35dda75f5c948e8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6e493cef147bc19cd35dda75f5c948e8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68d75e7907026f7f24ffc309c5feedcf/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68d75e7907026f7f24ffc309c5feedcf/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68d75e7907026f7f24ffc309c5feedcf/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.javiersantos/AppUpdater/2.7/b9a9ee8ca317332aa62517d34c0c10716f2c30e5/AppUpdater-2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.activity.share.ShareActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/refer_earn"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/clanpro_medium"
+                android:padding="12dp"
+                android:text="Refer and Earn"
+                android:gravity="center_horizontal"
+                android:textColor="@color/colorPrimaryText"
+                android:textSize="@dimen/text_medium" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/clanpro_medium"
+                android:padding="0dp"
+                android:text="Share KeoCab with with your friends \n and earn money when they\n complete their first ride"
+                android:gravity="center_horizontal"
+                android:textColor="@color/colorSecondaryText"
+                android:textSize="@dimen/text_small" />
+
+
+            <LinearLayout
+                android:layout_margin="20dp"
+                android:layout_gravity="center"
+                android:background="@drawable/dashed_border"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+
+
+                    android:id="@+id/referCode"
+
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/clanpro_medium"
+                    android:paddingHorizontal="20dp"
+                    android:paddingVertical="10dp"
+                    android:text="ABC123"
+                    android:gravity="center_horizontal"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="@dimen/text_small" />
+
+                <ImageView
+                    android:clickable="true"
+                    android:id="@+id/shareBtn"
+                    android:layout_gravity="center"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:tint="@color/colorSecondaryText"
+                    android:src="@drawable/baseline_share_black_20"
+                    android:focusable="true" />
+                <View
+                    android:layout_width="10dp"
+                    android:layout_height="0dp"/>
+
+
+            </LinearLayout>
+
+
+
+
+            <TextView
+                android:id="@+id/totalRefer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/clanpro_medium"
+                android:padding="0dp"
+                android:text="Total Refers: 0"
+                android:gravity="center_horizontal"
+                android:textColor="@color/colorSecondaryText"
+                android:textSize="@dimen/text_small" />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
