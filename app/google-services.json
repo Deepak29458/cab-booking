@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "439093991747",
+    "firebase_url": "https://ekoecabs.firebaseio.com",
+    "project_id": "ekoecabs",
+    "storage_bucket": "ekoecabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439093991747:android:66959ba5512cb590d037f6",
+        "android_client_info": {
+          "package_name": "com.keocabs.ekeocabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439093991747-679alfb9p8i69486deg20923ea9e3e7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keocabs.ekeocabs",
+            "certificate_hash": "9406208ad670705308c0e39337ebea70662e9d24"
+          }
+        },
+        {
+          "client_id": "439093991747-oucbpvdq3ccnpkhs39l35cf8uaae5fv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keocabs.ekeocabs",
+            "certificate_hash": "d9562c007d8cfe38bfb0ce1704969eadf82e9b83"
+          }
+        },
+        {
+          "client_id": "439093991747-qo7fqisl0pf2827cecjfd0o2b4i7u3ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keocabs.ekeocabs",
+            "certificate_hash": "a6c7d9dadaa98203426fe4fe9ae3b5f8c6b434f4"
+          }
+        },
+        {
+          "client_id": "439093991747-mghopo30s4hg1ue199h33lunfhqtstea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODWXGBDEeQh7PO2SqK7Rd7TnXXy3JXd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439093991747-mghopo30s4hg1ue199h33lunfhqtstea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439093991747:android:f41391b05b960bddd037f6",
+        "android_client_info": {
+          "package_name": "com.keocabs.keodriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439093991747-73qu7j1m644gmo1kluk1rs5ogelns3cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keocabs.keodriver",
+            "certificate_hash": "43a41d441a9fbefe817e9c9ac2bc317b8d991058"
+          }
+        },
+        {
+          "client_id": "439093991747-mghopo30s4hg1ue199h33lunfhqtstea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODWXGBDEeQh7PO2SqK7Rd7TnXXy3JXd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439093991747-mghopo30s4hg1ue199h33lunfhqtstea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

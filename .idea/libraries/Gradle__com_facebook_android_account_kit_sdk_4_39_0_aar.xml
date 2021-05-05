@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:account-kit-sdk:4.39.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20d0b391ba4c3f2d13c5cf4797d7c2c5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20d0b391ba4c3f2d13c5cf4797d7c2c5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20d0b391ba4c3f2d13c5cf4797d7c2c5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9d1b5cc5e3ece120bc169d0f2e3a0250/account-kit-sdk-4.39.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9d1b5cc5e3ece120bc169d0f2e3a0250/account-kit-sdk-4.39.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9d1b5cc5e3ece120bc169d0f2e3a0250/account-kit-sdk-4.39.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/account-kit-sdk/4.39.0/47154f9e4990b2b5951f747a071db04dd8b84a3b/account-kit-sdk-4.39.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

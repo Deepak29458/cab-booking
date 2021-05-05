@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-location:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7be103cf21fb99fad205ebaf159526e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7be103cf21fb99fad205ebaf159526e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f7be103cf21fb99fad205ebaf159526e/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58c07ef3baa842f1998634e75abf0771/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c934c4afd09ab62c1f9a26fefdb7c0f1/play-services-location-16.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c934c4afd09ab62c1f9a26fefdb7c0f1/play-services-location-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c934c4afd09ab62c1f9a26fefdb7c0f1/play-services-location-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:customtabs:27.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4aaf339319de48583c3979ccc4c07e7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4aaf339319de48583c3979ccc4c07e7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4aaf339319de48583c3979ccc4c07e7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4b41a103b7f7d7d088c4c5d464ef687/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea8b8a7bf07f0e4eade603290a7bd17a/customtabs-27.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea8b8a7bf07f0e4eade603290a7bd17a/customtabs-27.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea8b8a7bf07f0e4eade603290a7bd17a/customtabs-27.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/customtabs/27.0.2/32ca2a7e34a4796c84d57234eecb3a4928842689/customtabs-27.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
