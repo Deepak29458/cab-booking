@@ -26,8 +26,8 @@ android {
         buildConfigField "String", "CLIENT_ID", '"2"'
         buildConfigField "String", "DEVICE_TYPE", '"android"'
         buildConfigField "String", "STRIPE_PK", '""'
-        buildConfigField "String", "BASE_URL", '"http://keocabs.in/"'
-        buildConfigField "String", "BASE_IMAGE_URL", '"http://keocabs.in/storage/"'
+        buildConfigField "String", "BASE_URL", '"https://keocabs.in/"'
+        buildConfigField "String", "BASE_IMAGE_URL", '"https://keocabs.in/storage/"'
     }
 
     signingConfigs {

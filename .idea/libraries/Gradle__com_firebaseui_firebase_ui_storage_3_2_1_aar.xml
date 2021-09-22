@@ -7,6 +7,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad0aed6a42ff04d02eff9d4fc3ef9dab/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad0aed6a42ff04d02eff9d4fc3ef9dab/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ad0aed6a42ff04d02eff9d4fc3ef9dab/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2213aa847395a4f0f332eb927ad034a2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2213aa847395a4f0f332eb927ad034a2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2213aa847395a4f0f332eb927ad034a2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-storage/3.2.1/e116501220660b94c3a35793c640ea8e2fd7c260/firebase-ui-storage-3.2.1-javadoc.jar!/" />
